@@ -1,0 +1,10 @@
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\bin\Debug\LAB3_TAN.exe.config
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\bin\Debug\LAB3_TAN.exe
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\bin\Debug\LAB3_TAN.pdb
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\obj\Debug\LAB3_TAN.csprojAssemblyReference.cache
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\obj\Debug\LAB3_TAN.Calculator.resources
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\obj\Debug\LAB3_TAN.Properties.Resources.resources
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\obj\Debug\LAB3_TAN.csproj.GenerateResource.cache
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\obj\Debug\LAB3_TAN.csproj.CoreCompileInputs.cache
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\obj\Debug\LAB3_TAN.exe
+C:\Users\Aleo\source\repos\LAB3_TAN\LAB3_TAN\obj\Debug\LAB3_TAN.pdb
