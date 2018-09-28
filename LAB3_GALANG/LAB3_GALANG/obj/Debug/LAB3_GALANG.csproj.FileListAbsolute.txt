@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\bin\Debug\LAB3_GALANG.exe.config
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\bin\Debug\LAB3_GALANG.exe
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\bin\Debug\LAB3_GALANG.pdb
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\obj\Debug\LAB3_GALANG.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\obj\Debug\LAB3_GALANG.Form1.resources
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\obj\Debug\LAB3_GALANG.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\obj\Debug\LAB3_GALANG.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\obj\Debug\LAB3_GALANG.exe
+c:\users\asus\documents\visual studio 2012\ProjectsReal\LAB3_GALANG\LAB3_GALANG\obj\Debug\LAB3_GALANG.pdb
