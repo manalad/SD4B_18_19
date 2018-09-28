@@ -1,0 +1,9 @@
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\bin\Debug\Lab3_Sangalang.exe.config
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\bin\Debug\Lab3_Sangalang.exe
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\bin\Debug\Lab3_Sangalang.pdb
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\obj\Debug\Lab3_Sangalang.csprojResolveAssemblyReference.cache
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\obj\Debug\Lab3_Sangalang.Calculator.resources
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\obj\Debug\Lab3_Sangalang.Properties.Resources.resources
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\obj\Debug\Lab3_Sangalang.csproj.GenerateResource.Cache
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\obj\Debug\Lab3_Sangalang.exe
+C:\Users\choco\Documents\C#\C# 2018\Lab3_Sangalang\Lab3_Sangalang\obj\Debug\Lab3_Sangalang.pdb
