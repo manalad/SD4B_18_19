@@ -1,0 +1,23 @@
+C:\Users\Acer\AppData\Local\Temporary Projects\Lab3_LIMAYO\bin\Debug\Lab3_LIMAYO.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\Lab3_LIMAYO\bin\Debug\Lab3_LIMAYO.pdb
+C:\Users\Acer\AppData\Local\Temporary Projects\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.Calculator.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.Properties.Resources.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.csproj.GenerateResource.Cache
+C:\Users\Acer\AppData\Local\Temporary Projects\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.pdb
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.exe
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.pdb
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\bin\Debug\Lab3_LIMAYO.exe
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\bin\Debug\Lab3_LIMAYO.pdb
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.Calculator.resources
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.Properties.Resources.resources
+C:\Users\Acer\Desktop\Lab3_LIMAYO and SINGIAN\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.exe
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.pdb
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\bin\Debug\Lab3_LIMAYO.exe
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\bin\Debug\Lab3_LIMAYO.pdb
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.Calculator.resources
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.Properties.Resources.resources
+C:\Users\Acer\Desktop\Lab3_LIMAYO\Lab3_LIMAYO\obj\x86\Debug\Lab3_LIMAYO.csproj.GenerateResource.Cache
