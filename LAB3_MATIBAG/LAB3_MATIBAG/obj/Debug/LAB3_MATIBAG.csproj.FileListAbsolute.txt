@@ -1,0 +1,9 @@
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\bin\Debug\LAB3_MATIBAG.exe.config
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\bin\Debug\LAB3_MATIBAG.exe
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\bin\Debug\LAB3_MATIBAG.pdb
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\obj\Debug\LAB3_MATIBAG.csprojResolveAssemblyReference.cache
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\obj\Debug\LAB3_MATIBAG.Form1.resources
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\obj\Debug\LAB3_MATIBAG.Properties.Resources.resources
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\obj\Debug\LAB3_MATIBAG.csproj.GenerateResource.Cache
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\obj\Debug\LAB3_MATIBAG.exe
+c:\users\moises\documents\visual studio 2012\Projects\LAB3_MATIBAG\LAB3_MATIBAG\obj\Debug\LAB3_MATIBAG.pdb
