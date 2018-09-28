@@ -1,0 +1,17 @@
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\bin\Debug\Form1.exe
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\bin\Debug\Form1.pdb
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\obj\x86\Debug\Form1.Form1.resources
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\obj\x86\Debug\Lab3_Cabauatan.csproj.GenerateResource.Cache
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\obj\x86\Debug\Form1.exe
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\obj\x86\Debug\Form1.pdb
+C:\Users\MARCEL-JAY\AppData\Local\Temporary Projects\Form1\obj\x86\Debug\Form1.Calculator.resources
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\bin\Debug\Lab3_Cabauatan.exe
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\bin\Debug\Lab3_Cabauatan.pdb
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\obj\x86\Debug\Form1.Calculator.resources
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\obj\x86\Debug\Form1.Form1.resources
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\obj\x86\Debug\Form1.Properties.Resources.resources
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\obj\x86\Debug\Lab3_Cabauatan.csproj.GenerateResource.Cache
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\obj\x86\Debug\Lab3_Cabauatan.exe
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\obj\x86\Debug\Lab3_Cabauatan.pdb
+C:\Users\MARCEL-JAY\Documents\Visual Studio 2010\Projects\Lab3_Cabauatan\Lab3_Cabauatan\obj\x86\Debug\Lab3_Cabauatan.csprojResolveAssemblyReference.cache
