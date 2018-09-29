@@ -1,0 +1,7 @@
+E:\Lab3_Singian\Lab3_Singian\bin\Debug\Lab3_Singian.exe
+E:\Lab3_Singian\Lab3_Singian\bin\Debug\Lab3_Singian.pdb
+E:\Lab3_Singian\Lab3_Singian\obj\x86\Debug\Lab3_Singian.Calculator.resources
+E:\Lab3_Singian\Lab3_Singian\obj\x86\Debug\Lab3_Singian.Properties.Resources.resources
+E:\Lab3_Singian\Lab3_Singian\obj\x86\Debug\Lab3_Singian.csproj.GenerateResource.Cache
+E:\Lab3_Singian\Lab3_Singian\obj\x86\Debug\Lab3_Singian.exe
+E:\Lab3_Singian\Lab3_Singian\obj\x86\Debug\Lab3_Singian.pdb
