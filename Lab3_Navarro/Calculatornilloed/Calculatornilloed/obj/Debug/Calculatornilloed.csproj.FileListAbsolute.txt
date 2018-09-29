@@ -1,0 +1,10 @@
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\bin\Debug\Calculatornilloed.exe.config
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\bin\Debug\Calculatornilloed.exe
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\bin\Debug\Calculatornilloed.pdb
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\obj\Debug\Calculatornilloed.csprojResolveAssemblyReference.cache
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\obj\Debug\Calculatornilloed.Form1.resources
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\obj\Debug\Calculatornilloed.Properties.Resources.resources
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\obj\Debug\Calculatornilloed.csproj.GenerateResource.Cache
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\obj\Debug\Calculatornilloed.csproj.CoreCompileInputs.cache
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\obj\Debug\Calculatornilloed.exe
+C:\Users\LloedAldwin\source\repos\Calculatornilloed\Calculatornilloed\obj\Debug\Calculatornilloed.pdb
