@@ -1,0 +1,10 @@
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\obj\Debug\Lab3_Izon.csprojAssemblyReference.cache
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\obj\Debug\Lab3_Izon.Calculator.resources
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\obj\Debug\Lab3_Izon.Properties.Resources.resources
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\obj\Debug\Lab3_Izon.csproj.GenerateResource.cache
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\obj\Debug\Lab3_Izon.csproj.CoreCompileInputs.cache
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\bin\Debug\Lab3_Izon.exe.config
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\bin\Debug\Lab3_Izon.exe
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\bin\Debug\Lab3_Izon.pdb
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\obj\Debug\Lab3_Izon.exe
+C:\Users\andrei\source\repos\Lab3_Izon\Lab3_Izon\obj\Debug\Lab3_Izon.pdb
